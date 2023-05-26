@@ -41,7 +41,7 @@ Post Creation and Image Uploads
 Users can create engaging posts and accompany them with relevant images, fostering a sense of community and interaction among the alumni. The home page displays a feed of all posts, ensuring that the latest updates are readily accessible.
 
 {:refdef: style="text-align: center;"}
-![image](/assets/images/cobb_post.jpg){:height="400"}
+![image](./../assets/images/cobb_post.jpg){:height="400"}
 {:refdef}
 
 <br>
@@ -69,7 +69,7 @@ Messaging System
 Recognizing the importance of direct communication, we integrated a messaging feature that enables users to interact with each other privately. This encourages collaborative efforts, mentoring relationships, and the sharing of valuable insights.
 
 {:refdef: style="text-align: center;"}
-![image](/assets/images/cobb_message.jpg){:height="400"}
+![image](./../assets/images/cobb_message.jpg){:height="400"}
 {:refdef}
 
 <center>
