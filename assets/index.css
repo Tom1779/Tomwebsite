@@ -23,3 +23,7 @@
     99%   {color: var(--color-3)}
     100%  {color: var(--color-1)}
   }
+
+  body{
+    background-color: #5072A7;
+  }
