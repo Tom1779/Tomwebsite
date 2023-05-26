@@ -69,7 +69,7 @@ Messaging System
 Recognizing the importance of direct communication, we integrated a messaging feature that enables users to interact with each other privately. This encourages collaborative efforts, mentoring relationships, and the sharing of valuable insights.
 
 {:refdef: style="text-align: center;"}
-![image](./../assets/images/cobb_message.jpg){:height="400"}
+![image](https://tom1779.github.io/TomWebsite/assets/images/cobb_message.jpg){:height="400"}
 {:refdef}
 
 <center>
