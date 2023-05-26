@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "CNN Image Processing: Pokemon Classifier"
-date:   2023-05-17 17:24:29 -0700
 ---
 
 {:refdef: style="text-align: center;"}
