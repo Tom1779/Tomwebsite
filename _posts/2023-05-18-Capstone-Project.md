@@ -41,7 +41,7 @@ Post Creation and Image Uploads
 Users can create engaging posts and accompany them with relevant images, fostering a sense of community and interaction among the alumni. The home page displays a feed of all posts, ensuring that the latest updates are readily accessible.
 
 {:refdef: style="text-align: center;"}
-![image](./../assets/images/cobb_post.jpg){:height="400"}
+![image](https://tom1779.github.io/TomWebsite/assets/images/cobb_post.jpg){:height="400"}
 {:refdef}
 
 <br>

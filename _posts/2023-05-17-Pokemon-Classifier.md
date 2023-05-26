@@ -5,7 +5,7 @@ date:   2023-05-17 17:24:29 -0700
 ---
 
 {:refdef: style="text-align: center;"}
-![image](/assets/images/pokemon1.jpg){:width="400"}
+![image](https://tom1779.github.io/TomWebsite/assets/images/pokemon1.jpg){:width="400"}
 {:refdef}
-![image](/assets/images/pokemon2.jpg){:height="600"}
-![image](/assets/images/pokemon3.jpg){:width="1000"}
+![image](https://tom1779.github.io/TomWebsite/assets/images/pokemon2.jpg){:height="600"}
+![image](https://tom1779.github.io/TomWebsite/assets/images/pokemon3.jpg){:width="1000"}
