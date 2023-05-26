@@ -23,3 +23,8 @@
     99%   {color: var(--color-3)}
     100%  {color: var(--color-1)}
   }
+
+  body{
+    color: #fdfdfd;
+    background-color: #121212;
+  }
