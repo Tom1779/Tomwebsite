@@ -7,7 +7,7 @@ permalink: /about/
 {: style="text-align: center;"}
 
 {:refdef: style="text-align: center;"}
-![image](/assets/images/Me.jpg){:height="400"}
+![image](https://tom1779.github.io/TomWebsite/assets/images/Me.jpg){:height="400"}
 {:refdef}
 <div class="content">
 <br>
