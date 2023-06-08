@@ -15,10 +15,6 @@ h2{
     color: #1756a9;
 }
 
-.page-link, .trigger{
+.site-nav .page-link {
     color: #828282;
-}
-
-body{
-    color: #828282;
-}
+  }
