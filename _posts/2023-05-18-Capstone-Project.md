@@ -101,8 +101,8 @@ Recognizing the importance of direct communication, we integrated a messaging fe
 <center>
 <img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_message.jpg" alt="Messaging" height="400">
 </center>
-</div>
 <br>
+</div>
 <br>
 <br>
 
