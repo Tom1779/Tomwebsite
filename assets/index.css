@@ -43,3 +43,8 @@
   .site-nav .page-link {
     color: #828282;
   }
+
+  .footer-col-3 {
+    width: -webkit-calc(60% - (30px / 2));
+    width: calc(60% - (30px / 2));
+  }
