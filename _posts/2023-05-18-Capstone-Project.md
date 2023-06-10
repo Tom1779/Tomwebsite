@@ -25,6 +25,7 @@ Technologies Utilized:
 </center>
 To fulfill the requirements of the project, we employed the powerful Flutter framework combined with Firebase for the backend. Flutter, known for its cross-platform capabilities, enabled us to develop a visually appealing and responsive website that could seamlessly adapt to various devices and screen sizes. Firebase, on the other hand, provided a robust and scalable backend infrastructure, offering functionalities such as user authentication, real-time database management, and secure storage for images.
 
+<div class="features">
 <center>
 <h2>
 Features Implemented:
@@ -90,6 +91,7 @@ Recognizing the importance of direct communication, we integrated a messaging fe
 {:refdef: style="text-align: center;"}
 ![image](https://tom1779.github.io/TomWebsite/assets/images/cobb_message.jpg){:height="400"}
 {:refdef}
+</div>
 
 <center>
 <h2>

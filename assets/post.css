@@ -24,3 +24,9 @@ h1{
 .site-nav .page-link {
     color: #828282;
   }
+
+.features{
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(147, 145, 145, 0.5),
+            inset 5px 5px 8px rgba(147, 145, 145, 0.5);
+}
