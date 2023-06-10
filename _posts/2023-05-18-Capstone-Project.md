@@ -52,14 +52,18 @@ Users can create engaging posts and accompany them with relevant images, fosteri
 User Authentication
 </strong>
 </h3>
-To ensure privacy and exclusivity, we implemented a secure sign-up and log-in feature. This allows users to access personalized content and maintain their own profiles.
+To ensure privacy and exclusivity, we implemented a secure sign-up and log-in feature. This is one of the features which will require more work in the future but basic user information is already stored in the backend, the main things to be added are email verifications, profile settings, and account deletions.
 
 <h3>
 <strong>
 Location Visualization
 </strong>
 </h3> 
-Leveraging the power of Firebase and Flutter, we created an interactive map that showcases the general locations of the alumni. This feature enhances networking opportunities and fosters connections between individuals based on their geographic proximity.
+Leveraging the power of Firebase and Flutter combined with the google maps API, we created an interactive map that showcases the general locations of the alumni. This feature enhances networking opportunities and fosters connections between individuals based on their geographic proximity.
+
+{:refdef: style="text-align: center;"}
+![image](https://tom1779.github.io/TomWebsite/assets/images/cobb_map.jpg){:height="400"}
+{:refdef}
 
 <h3>
 <strong>
