@@ -26,7 +26,8 @@ h1{
   }
 
 .features{
-    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     background-color: #000000;
     border-radius: 30px;
     border-color: #eeadad;
