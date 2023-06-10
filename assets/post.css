@@ -26,6 +26,7 @@ h1{
   }
 
 .features{
+    background-color: #3c3a3a;
     border-radius: 10px;
     box-shadow: 2px 2px 5px rgba(147, 145, 145, 0.5),
             inset 5px 5px 8px rgba(147, 145, 145, 0.5);
