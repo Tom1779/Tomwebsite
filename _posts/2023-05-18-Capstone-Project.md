@@ -68,8 +68,8 @@ To ensure privacy and exclusivity, we implemented a secure sign-up and log-in fe
 <strong>
 Location Visualization
 </strong>
-</center>
 </h3> 
+</center>
 Leveraging the power of Firebase and Flutter combined with the google maps API, we created an interactive map that showcases the general locations of the alumni. This feature enhances networking opportunities and fosters connections between individuals based on their geographic proximity.
 
 <br>
