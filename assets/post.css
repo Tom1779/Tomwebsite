@@ -15,6 +15,11 @@ h2{
     color: #1756a9;
 }
 
+h1{
+    color: #8d8b8b;
+    font-weight: bold;
+}
+
 .site-nav .page-link {
     color: #828282;
   }
