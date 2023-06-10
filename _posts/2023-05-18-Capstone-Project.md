@@ -43,9 +43,11 @@ Post Creation and Image Uploads
 Users can create engaging posts and accompany them with relevant images, fostering a sense of community and interaction among the alumni. The home page displays a feed of all posts, ensuring that the latest updates are readily accessible.
 
 <br>
+<br>
 <center>
 <img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_post.jpg" alt="Posting" height="400">
 </center>
+<br>
 <br>
 <br>
 
@@ -59,9 +61,11 @@ User Authentication
 To ensure privacy and exclusivity, we implemented a secure sign-up and log-in feature. This is one of the features which will require more work in the future but basic user information is already stored in the backend, the main things to be added are email verifications, profile settings, and account deletions.
 
 <br>
+<br>
 <center>
 <img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_auth.png" alt="Authentication" height="400">
 </center>
+<br>
 <br>
 <br>
 
@@ -75,9 +79,11 @@ Location Visualization
 Leveraging the power of Firebase and Flutter combined with the google maps API, we created an interactive map that showcases the general locations of the alumni. This feature enhances networking opportunities and fosters connections between individuals based on their geographic proximity.
 
 <br>
+<br>
 <center>
 <img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_map.png" alt="Map" height="400">
 </center>
+<br>
 <br>
 <br>
 
@@ -91,10 +97,12 @@ Messaging System
 Recognizing the importance of direct communication, we integrated a messaging feature that enables users to interact with each other privately. This encourages collaborative efforts, mentoring relationships, and the sharing of valuable insights.
 
 <br>
+<br>
 <center>
 <img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_message.jpg" alt="Messaging" height="400">
 </center>
 </div>
+<br>
 <br>
 <br>
 
