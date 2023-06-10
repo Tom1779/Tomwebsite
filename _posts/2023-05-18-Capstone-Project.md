@@ -104,3 +104,6 @@ Conclusion:
 </h2>
 </center>
 Undertaking the capstone project in collaboration with the Granger Cobb Institute for Senior Living has been an invaluable experience. From conceptualization to implementation, we embraced the power of Flutter and Firebase to create a website that fosters alumni engagement, facilitates meaningful connections, and provides a platform for ongoing communication. While there is still work to be done, the progress we have made thus far is a testament to the dedication and skills of our team. I look forward to seeing this project reach its full potential and positively impact the alumni community for years to come.
+
+<br>
+<br>
