@@ -24,12 +24,3 @@ h1{
 .site-nav .page-link {
     color: #828282;
   }
-
-.features{
-    padding-left: 10px;
-    padding-right: 10px;
-    background-color: #000000;
-    border-radius: 30px;
-    border-color: #eeadad;
-    border-style: groove;
-}
