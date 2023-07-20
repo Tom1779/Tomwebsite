@@ -32,10 +32,11 @@ Features Implemented:
 </h2>
 </center>
 Though our website is still a work in progress, we have successfully integrated several key features that enhance the overall user experience. Here are some notable functionalities:
-
 <center>
 <h3>
 <strong>
+<br>
+<br>
 Post Creation and Image Uploads
 </strong>
 </h3>
