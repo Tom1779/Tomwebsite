@@ -23,6 +23,7 @@ This project was what our team which comprised of four people decided to do for 
 <center>
 <img src="https://tom1779.github.io/TomWebsite/assets/images/pokemon1.jpg" alt="Pokemon" height="100">
 </center>
+<br>
 
 <center>
 <h2>
