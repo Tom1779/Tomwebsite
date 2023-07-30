@@ -32,7 +32,11 @@ Tools Utilized:
 </center>
 We used Google Colab as our code editor. The coding language was python since it has many useful libraries which utilize machine learning algorithms making it easy and efficient to train and test models. These libraries include: Tensorflow for its keras api which allowed us to implement the convolutional neural network, Sklearn for splitting the training and testing samples as well getting analytical data from the model such as the precision score. Cv2 and numpy to convert the images into a BGR color space array. Finally we used matplotlib to display the results. To get the images we found images of the pokemon online and uploaded them to kaggle and then later imported them to the google colab notebook workspace.
 
-
-
+<center>
+<h2>
+Set up and Methodology:
+</h2>
+</center>
+For each pokemon we prepared somewhere between 270 and 370 images whihc were then split into training and testing data with an 80-20 split. The in order tonormalize the pixel values we divided the array by 255(the range of possible pixel values). The next step was to create tehe convulutional neural network model. This was the part that took the most time as we had to go back and tweak the number of layers for optimal efficiency and accuracy. We decided to use a conviltional neural network due to its popularity with image calssification algorithms and calulation speed.   
 <!--![image](https://tom1779.github.io/TomWebsite/assets/images/pokemon2.jpg){:height="600"}
 ![image](https://tom1779.github.io/TomWebsite/assets/images/pokemon3.jpg){:width="1000"}-->

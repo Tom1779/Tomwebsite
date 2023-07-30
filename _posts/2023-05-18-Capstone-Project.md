@@ -18,6 +18,15 @@ The Project:
 </center>
 Our team, comprising three dedicated individuals, embarked on a journey to develop an innovative website that would serve as a hub for communication and engagement within the alumni community. The primary goals of the project included facilitating seamless messaging between users, allowing the creation of posts with image uploads, and displaying the general location of alumni based on their cities.
 
+<br>
+<br>
+<center>
+<iframe height="400" width="880" src="https://tom1779.github.io/TomWebsite/assets/images/cobb-connect.mp4" frameborder="0" allowfullscreen></iframe>
+</center>
+<br>
+<br>
+<br>
+
 <center>
 <h2>
 Tools Utilized:
@@ -45,8 +54,8 @@ Users can create engaging posts and accompany them with relevant images, fosteri
 <br>
 <br>
 <center>
-<!--img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_post.jpg" alt="Posting" height="400">-->
-<iframe height="400" width="920" src="https://tom1779.github.io/TomWebsite/assets/images/cobb-connect.mp4" frameborder="0" allowfullscreen></iframe>
+img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_post.jpg" alt="Posting" height="400">
+
 </center>
 <br>
 <br>
