@@ -20,7 +20,7 @@ Our team, comprising three dedicated individuals, embarked on a journey to devel
 
 <center>
 <h2>
-Technologies Utilized:
+Tools Utilized:
 </h2>
 </center>
 To fulfill the requirements of the project, we employed the powerful Flutter framework combined with Firebase for the backend. Flutter, known for its cross-platform capabilities, enabled us to develop a visually appealing and responsive website that could seamlessly adapt to various devices and screen sizes. Firebase, on the other hand, provided a robust and scalable backend infrastructure, offering functionalities such as user authentication, real-time database management, and secure storage for images.
