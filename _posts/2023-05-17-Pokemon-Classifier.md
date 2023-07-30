@@ -22,7 +22,7 @@ This project was what our team which comprised of four people decided to do for 
 <br>
 <br>
 <center>
-<img src="https://tom1779.github.io/TomWebsite/assets/images/pokemon1.jpg" alt="Posting" height="400">
+<img src="https://tom1779.github.io/TomWebsite/assets/images/pokemon1.jpg" alt="Pokemon" height="200">
 </center>
 
 <!--![image](https://tom1779.github.io/TomWebsite/assets/images/pokemon2.jpg){:height="600"}
