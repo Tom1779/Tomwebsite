@@ -46,7 +46,7 @@ Users can create engaging posts and accompany them with relevant images, fosteri
 <br>
 <center>
 <!--img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_post.jpg" alt="Posting" height="400">-->
-<iframe height="400" src="https://tom1779.github.io/TomWebsite/assets/images/Tab-1684478070896.webm" frameborder="0" allowfullscreen></iframe>
+<iframe height="400" width="920" src="https://tom1779.github.io/TomWebsite/assets/images/cobb-connect.mp4" frameborder="0" allowfullscreen></iframe>
 </center>
 <br>
 <br>
