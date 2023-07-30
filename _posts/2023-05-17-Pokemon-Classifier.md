@@ -30,7 +30,9 @@ This project was what our team which comprised of four people decided to do for 
 Tools Utilized:
 </h2>
 </center>
-We used Google Colab as our code editor. The coding language was python since it has many useful libraries which utilize machine learning algorithms making it easy and efficient to train and test models. These libraries include: Tensorflow for its keras api which allowed us to implement the convolutional neural network, Sklearn for splitting the training and testing samples as well getting analytical data from the model such as the precision score. Cv2 and numpy to convert the images into an BGR color space array. Finally we used matplotlib to display the results. To get the images we found images of the pokemon online and uploaded them to kaggle and then later imported them to the google colab notebook workspace.    
+We used Google Colab as our code editor. The coding language was python since it has many useful libraries which utilize machine learning algorithms making it easy and efficient to train and test models. These libraries include: Tensorflow for its keras api which allowed us to implement the convolutional neural network, Sklearn for splitting the training and testing samples as well getting analytical data from the model such as the precision score. Cv2 and numpy to convert the images into a BGR color space array. Finally we used matplotlib to display the results. To get the images we found images of the pokemon online and uploaded them to kaggle and then later imported them to the google colab notebook workspace.
+
+
 
 <!--![image](https://tom1779.github.io/TomWebsite/assets/images/pokemon2.jpg){:height="600"}
 ![image](https://tom1779.github.io/TomWebsite/assets/images/pokemon3.jpg){:width="1000"}-->
