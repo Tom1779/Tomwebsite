@@ -53,7 +53,7 @@ We were able to achieve great accuracy from our model with the testing samples a
     <img src="https://tom1779.github.io/TomWebsite/assets/images/pokemon2.jpg" alt="Confusion Matrix" style="height:100">
   </div>
   <div class="column">
-    <img src="https://tom1779.github.io/TomWebsite/assets/images/pokemon3.jpg" alt="Model Epochs" style="height: 100">
+    <img src="https://tom1779.github.io/TomWebsite/assets/images/pokemon3.jpg" alt="Model Epochs" style="height:100">
   </div>
 </div>
 </center>
