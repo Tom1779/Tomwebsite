@@ -56,7 +56,7 @@ Users can create engaging posts and accompany them with relevant images, fosteri
 <br>
 <br>
 <center>
-<img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_post.jpg" alt="Posting" height="400">
+<img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_post.jpg" alt="Posting" width="65%">
 </center>
 <br>
 <br>
