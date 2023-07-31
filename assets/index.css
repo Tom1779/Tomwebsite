@@ -1,4 +1,4 @@
-  .site-title{
+a .site-title{
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .15em solid white; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
@@ -9,14 +9,10 @@
       blink-caret .75s step-end infinite;
   }
 
-  .site-title, .site-title:visited{
-    color: white;
-  }
-
-  /* The typing effect */
+    /* The typing effect */
 @keyframes typing {
   from { width: 0 }
-  to { width: 27% }
+  to { width: max-content}
 }
 
 /* The typewriter cursor effect */
@@ -25,6 +21,11 @@
   50% { border-color: white; }
 }
   
+
+.site-title, .site-title:visited{
+    color: white;
+  }
+
 .home_body{
     background-color: #353839;
   }
