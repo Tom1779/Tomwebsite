@@ -7,7 +7,7 @@
     letter-spacing: .15em; /* Adjust as needed */
     animation: 
       typing 3.5s steps(40, end),
-      blink-caret .75s step-end 5;
+      blink-caret .75s step-end infinite;
   }
 
   /* The typing effect */
@@ -22,11 +22,11 @@
   50% { border-color: orange; }
 }
   
-  .home_body{
+.home_body{
     background-color: #353839;
   }
 
-  .post-list{
+.post-list{
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 2%;
@@ -34,10 +34,10 @@
     background-color: #414446;
   }
 
-  .post-list-heading{
+.post-list-heading{
     color: #828282;
   }
 
-  .site-nav .page-link {
+.site-nav .page-link {
     color: #828282;
   }
