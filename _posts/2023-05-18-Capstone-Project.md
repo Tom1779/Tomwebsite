@@ -21,7 +21,9 @@ Our team, comprising three dedicated individuals, embarked on a journey to devel
 <br>
 <br>
 <center>
-<iframe height="400" width="880" src="https://tom1779.github.io/TomWebsite/assets/images/cobb-connect.mp4" frameborder="0" allowfullscreen></iframe>
+<video height="400" width="880" controls>  
+    <source src="https://tom1779.github.io/TomWebsite/assets/images/cobb-connect.mp4" type="video/mp4">
+    </video>
 </center>
 <br>
 <br>
