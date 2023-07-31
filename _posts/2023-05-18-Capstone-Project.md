@@ -27,7 +27,6 @@ Our team, comprising three dedicated individuals, embarked on a journey to devel
 </center>
 <br>
 <br>
-<br>
 
 <center>
 <h2>
@@ -46,7 +45,6 @@ Though our website is still a work in progress, we have successfully integrated 
 <h3>
 <strong>
 <br>
-<br>
 Post Creation and Image Uploads
 </strong>
 </h3>
@@ -60,7 +58,6 @@ Users can create engaging posts and accompany them with relevant images, fosteri
 </center>
 <br>
 <br>
-<br>
 
 <center>
 <h3>
@@ -71,13 +68,11 @@ User Authentication
 </center>
 To ensure privacy and exclusivity, we implemented a secure sign-up and log-in feature. This is one of the features which will require more work in the future but basic user information is already stored in the backend, the main things to be added are email verifications, profile settings, and account deletions.
 
-
 <br>
 <br>
 <center>
 <img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_auth.png" alt="Authentication" width="65%">
 </center>
-<br>
 <br>
 <br>
 
@@ -97,7 +92,6 @@ Leveraging the power of Firebase and Flutter combined with the google maps API, 
 </center>
 <br>
 <br>
-<br>
 
 <center>
 <h3>
@@ -113,7 +107,6 @@ Recognizing the importance of direct communication, we integrated a messaging fe
 <center>
 <img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_message.jpg" alt="Messaging" width="65%">
 </center>
-<br>
 <br>
 <br>
 
