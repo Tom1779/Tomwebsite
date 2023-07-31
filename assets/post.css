@@ -24,3 +24,12 @@ h1{
 .site-nav .page-link {
     color: #828282;
   }
+
+.row{
+    display: flex;
+}
+
+.column{
+    flex: 50%;
+    padding: 5px;
+}
