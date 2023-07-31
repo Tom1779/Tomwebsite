@@ -21,7 +21,7 @@ Our team, comprising three dedicated individuals, embarked on a journey to devel
 <br>
 <br>
 <center>
-<video height="400" width="880" controls>  
+<video width="65%" controls>  
     <source src="https://tom1779.github.io/TomWebsite/assets/images/cobb-connect.mp4" type="video/mp4">
     </video>
 </center>
@@ -75,7 +75,7 @@ To ensure privacy and exclusivity, we implemented a secure sign-up and log-in fe
 <br>
 <br>
 <center>
-<img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_auth.png" alt="Authentication" height="400">
+<img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_auth.png" alt="Authentication" width="65%">
 </center>
 <br>
 <br>
@@ -93,7 +93,7 @@ Leveraging the power of Firebase and Flutter combined with the google maps API, 
 <br>
 <br>
 <center>
-<img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_map.png" alt="Map" height="400">
+<img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_map.png" alt="Map" width="65%">
 </center>
 <br>
 <br>
@@ -111,7 +111,7 @@ Recognizing the importance of direct communication, we integrated a messaging fe
 <br>
 <br>
 <center>
-<img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_message.jpg" alt="Messaging" height="400">
+<img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_message.jpg" alt="Messaging" width="65%">
 </center>
 <br>
 <br>
