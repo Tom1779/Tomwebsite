@@ -21,7 +21,7 @@
 title: Tom's Website
 email: tom.arad.2001@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  New Description.
+  Welcome! This website serves as a window into my professional journey. Here, you'll find a treasure trove of information about me – my skills, experiences, and accomplishments. Explore my portfolio, to gain insights into the value I can bring to your organization. As a Software Engineer, I am passionate about Web/app development, Machine Learning, data science, and more. Take a closer look at my capabilities, and let's connect to explore how we can collaborate and achieve shared success. Join me on this exciting professional adventure today!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: tom-arad
