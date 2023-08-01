@@ -64,7 +64,7 @@ We were able to achieve great accuracy from our model with the testing samples a
 Conclusion:
 </h2>
 </center>
-This project shows that a CNN can be used to reliantly identify pokemon images with high accuracy (as long as there are not too many glaring similarities between them). Future improvemnts tothis project would be adding more different pokemon as well as increasing the image quality and the number of images used to give the model better training.
+This project shows that a CNN can be used to reliantly identify pokemon images with high accuracy (as long as there are not too many glaring similarities between them). Future improvemnts to this project would be adding more different pokemon as well as increasing the image quality and the number of images used to give the model better training.
 
 <br>
 <br>
