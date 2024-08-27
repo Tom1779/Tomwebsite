@@ -362,7 +362,7 @@ table td {
 }
 
 .footer-col {
-  flex: 1;
+  flex: initial;
   margin-bottom: 15px;
   padding-left: 15px;
   padding-right: 15px;
