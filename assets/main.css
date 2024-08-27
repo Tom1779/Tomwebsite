@@ -116,14 +116,14 @@ h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #1bd2f2;
   text-decoration: none;
 }
 a:visited {
-  color: #1756a9;
+  color: #0b7082;
 }
 a:hover {
-  color: #111;
+  color: #0b7082;
   text-decoration: underline;
 }
 .social-media-list a:hover {
@@ -250,7 +250,6 @@ table td {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
   min-height: 55.95px;
   position: relative;
