@@ -14,6 +14,14 @@ h3 {
 h2 {
   color: #eeadad;
   font-weight: 600;
+  text-align: center;
+  padding: 15px 0;
+  margin: 30px 0;
+  border-top: 2px solid #eeadad;
+  border-bottom: 2px solid #eeadad;
+  background-color: rgba(238, 173, 173, 0.1);
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 h1 {
