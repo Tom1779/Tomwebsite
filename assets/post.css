@@ -27,18 +27,34 @@ h2 + * {
   margin-top: 0;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
+  text-align: center;
 }
 
 h2 ~ * {
   background-color: rgba(238, 173, 173, 0.05);
   padding-left: 20px;
   padding-right: 20px;
+  text-align: center;
 }
 
 h2 ~ h2 {
   margin-top: 30px;
   background-color: rgba(238, 173, 173, 0.2);
   border-radius: 8px 8px 0 0;
+}
+
+/* Center content within sections */
+h2 ~ * > *:not(h2) {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Ensure full-width for certain elements */
+h2 ~ * > img,
+h2 ~ * > video,
+h2 ~ * > .row {
+  max-width: 100%;
 }
 
 h3 {
