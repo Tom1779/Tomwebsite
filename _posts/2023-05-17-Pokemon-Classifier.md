@@ -15,11 +15,7 @@ The Project:
 
 This project was what our team which comprised of four people decided to do for our final assignment for our Machine Learning course. The goal of this recognition system was that it should be able to differeniate between 4 unique pokemon and classify them from just an image. The image below displays the different Pokemon we picked for this project.
 
-<br>
-
 <img src="https://tom1779.github.io/TomWebsite/assets/images/pokemon1.jpg" alt="Pokemon" height="100">
-
-<br>
 
 <h2>
 Tools Utilized:
@@ -39,8 +35,6 @@ Results:
 
 We were able to achieve great accuracy from our model with the testing samples at around 91% accuracy, further testing of the same algorithm with different images used for the training and testing samples yielded similar accuracy (88%-92%). the most common misclassification as can be seen in the confusion matrix was that the model calssified Charmander images as Pikachu images, this is likely due to the fact that this pokemon have large similarities in their appearance such as a tail and similar skin colors.
 
-<br>
-
 <div class="row">
   <div class="column">
     <img src="https://tom1779.github.io/TomWebsite/assets/images/pokemon2.jpg" alt="Confusion Matrix" style="height:100">
@@ -50,13 +44,8 @@ We were able to achieve great accuracy from our model with the testing samples a
   </div>
 </div>
 
-<br>
-
 <h2>
 Conclusion:
 </h2>
 
 This project shows that a CNN can be used to reliantly identify pokemon images with high accuracy (as long as there are not too many glaring similarities between them). Future improvemnts to this project would be adding more different pokemon as well as increasing the image quality and the number of images used to give the model better training.
-
-<br>
-<br>
