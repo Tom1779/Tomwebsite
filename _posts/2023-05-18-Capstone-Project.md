@@ -7,7 +7,11 @@ title: "Building a Collaborative Alumni Website: A Capstone Project Journey"
 Introduction:
 </h2>
 
+<div>
 In the realm of software development, capstone projects serve as a bridge between academic learning and real-world application. As part of my college experience, I had the incredible opportunity to work on a meaningful capstone project in collaboration with the Granger Cobb Institute for Senior Living. Our mission was to create a comprehensive website from scratch that would connect alumni and current students, while also providing valuable features such as post creation, messaging, and location visualization. In this blog post, I'll delve into the development process and the technologies we employed to bring this vision to life.
+</div>
+<br>
+<br>
 
 <h2>
 The Project:
@@ -24,21 +28,25 @@ Our team, comprising three dedicated individuals, embarked on a journey to devel
     <source src="https://tom1779.github.io/TomWebsite/assets/images/cobb-connect.mp4" type="video/mp4">
     </video>
 
-<br>
-<br>
-
 </div>
+<br>
+<br>
 
 <h2>
 Tools Utilized:
 </h2>
 
+<div>
 To fulfill the requirements of the project, we employed the powerful Flutter framework combined with Firebase for the backend. Flutter, known for its cross-platform capabilities, enabled us to develop a visually appealing and responsive website that could seamlessly adapt to various devices and screen sizes. Firebase, on the other hand, provided a robust and scalable backend infrastructure, offering functionalities such as user authentication, real-time database management, and secure storage for images.
+</div>
+<br>
+<br>
 
 <h2>
 Features Implemented:
 </h2>
 
+<div>
 Though our website is still a work in progress, we have successfully integrated several key features that enhance the overall user experience. Here are some notable functionalities:
 
 <h3>
@@ -102,7 +110,7 @@ Recognizing the importance of direct communication, we integrated a messaging fe
 <br>
 
 <img src="https://tom1779.github.io/TomWebsite/assets/images/cobb_message.jpg" alt="Messaging" width="65%">
-
+</div>
 <br>
 <br>
 
@@ -110,13 +118,18 @@ Recognizing the importance of direct communication, we integrated a messaging fe
 Contributions and Focus:
 </h2>
 
+<div>
 Throughout the development process, I had the privilege of working on various aspects of the project, including both the front-end and back-end components. My primary responsibilities revolved around crafting the home page, which featured the dynamic feed of posts, and the analytics page, where the map visualization resided. This multifaceted role allowed me to enhance my skills in both design and coding, enabling me to create an aesthetically pleasing and functional website.
+</div>
+<br>
+<br>
 
 <h2>
 Conclusion:
 </h2>
 
+<div>
 Undertaking the capstone project in collaboration with the Granger Cobb Institute for Senior Living has been an invaluable experience. From conceptualization to implementation, we embraced the power of Flutter and Firebase to create a website that fosters alumni engagement, facilitates meaningful connections, and provides a platform for ongoing communication. While there is still work to be done, the progress we have made thus far is a testament to the dedication and skills of our team. I look forward to seeing this project reach its full potential and positively impact the alumni community for years to come.
-
+</div>
 <br>
 <br>
