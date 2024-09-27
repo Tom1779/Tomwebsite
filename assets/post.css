@@ -45,7 +45,7 @@ h2 ~ h2 {
 
 /* Center content within sections */
 h2 ~ *:not(h2) > * {
-  max-width: 80%;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
