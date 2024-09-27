@@ -4,6 +4,7 @@ title: "Building a Collaborative Alumni Website: A Capstone Project Journey"
 ---
 
 <center>
+</div>
 <h2>
 Introduction:
 </h2>
