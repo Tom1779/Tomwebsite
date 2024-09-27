@@ -22,30 +22,36 @@ h2 {
 }
 
 h2 + * {
-  background-color: rgba(238, 173, 173, 0.05);
-  padding: 20px;
-  margin-top: 0;
+  padding-top: 20px;
+}
+
+h2:last-of-type + * {
+  padding-bottom: 20px;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
-  text-align: center;
 }
 
 h2 ~ *:not(h2) {
   background-color: rgba(238, 173, 173, 0.05);
   padding-left: 20px;
   padding-right: 20px;
+  margin-top: 0;
   text-align: center;
 }
 
 h2 ~ h2 {
-  margin-top: 30px;
-  background-color: rgba(238, 173, 173, 0.2);
-  border-radius: 8px 8px 0 0;
+  margin-top: 0;
+  border-radius: 0;
+}
+
+h2:last-of-type ~ *:not(h2) {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
 }
 
 /* Center content within sections */
 h2 ~ *:not(h2) > * {
-  max-width: 100%;
+  max-width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
