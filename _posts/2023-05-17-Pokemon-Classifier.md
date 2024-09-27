@@ -21,6 +21,7 @@ The Project:
 This project was what our team which comprised of four people decided to do for our final assignment for our Machine Learning course. The goal of this recognition system was that it should be able to differeniate between 4 unique pokemon and classify them from just an image. The image below displays the different Pokemon we picked for this project.
 
 <br>
+<br>
 
 <img src="https://tom1779.github.io/TomWebsite/assets/images/pokemon1.jpg" alt="Pokemon" height="100">
 </div>
