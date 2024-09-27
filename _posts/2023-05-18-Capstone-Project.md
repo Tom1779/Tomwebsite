@@ -13,6 +13,8 @@ In the realm of software development, capstone projects serve as a bridge betwee
 The Project:
 </h2>
 
+<div>
+
 Our team, comprising three dedicated individuals, embarked on a journey to develop an innovative website that would serve as a hub for communication and engagement within the alumni community. The primary goals of the project included facilitating seamless messaging between users, allowing the creation of posts with image uploads, and displaying the general location of alumni based on their cities.
 
 <br>
@@ -24,6 +26,8 @@ Our team, comprising three dedicated individuals, embarked on a journey to devel
 
 <br>
 <br>
+
+</div>
 
 <h2>
 Tools Utilized:
