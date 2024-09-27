@@ -27,12 +27,14 @@ h2 + * {
   margin-top: 0;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
+  text-align: center;
 }
 
 h2 ~ * {
   background-color: rgba(238, 173, 173, 0.05);
   padding-left: 20px;
   padding-right: 20px;
+  text-align: center;
 }
 
 h2 ~ h2 {
